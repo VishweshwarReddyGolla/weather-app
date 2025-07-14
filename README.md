@@ -21,7 +21,8 @@ A modern, responsive weather app built using **React + Vite**. It allows users t
 
 ## 🖼️ Preview
 
-![Weather App Screenshot](assets/preview.png) <!-- Add your image or remove this if you don't have one -->
+<img width="525" height="863" alt="image" src="https://github.com/user-attachments/assets/bcb35367-4207-4a58-831b-08e761c46574" />
+
 
 ---
 
@@ -41,3 +42,11 @@ git clone https://github.com/VishweshwarReddyGolla/weather-app.git
 cd weather-app
 npm install
 npm run dev
+
+🚀 Deployment
+npm run deploy
+
+📄 License
+This project is licensed under the MIT License.
+
+
